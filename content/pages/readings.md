@@ -25,30 +25,461 @@ Alfred, Lord Tennyson. _Selected Poems_. New York: Penguin Books, 1992. ISBN: 01
 
 Readings by Class Session and Reading Notes
 
-| SES # | TOPICS | READINGS | ADDITIONAL MATERIALS |
-| --- | --- | --- | --- |
-| 1 | Introduction: The Victorian Period | &nbsp; | Victorian England (c.1837-1901): Key Dates ([PDF]({{< baseurl >}}/resources/victorian_england)) |
-| 2 | Dickens | _Bleak House_ #1. (Chapters 1-4) | &nbsp; |
-| 3 | Thomas Carlyle  {{< br >}}  {{< br >}}John Ruskin | "Signs of the Times." (See also endnotes to essay.)  {{< br >}}  {{< br >}}"The Nature of Gothic," "The Opening of the Crystal Palace …," and "Traffic." | &nbsp; |
-| 4 | Thomas Carlyle (cont.)  {{< br >}}  {{< br >}}John Ruskin (cont.)  {{< br >}}  {{< br >}}Dickens (cont.) | "Signs of the Times."  {{< br >}}  {{< br >}}"The Nature of Gothic," "The Opening of the Crystal Palace …," and "Traffic."  {{< br >}}  {{< br >}}_Bleak House_ #2. (Chapters 5-7) | &nbsp; |
-| 5 | Elizabeth Gaskell | _Mary Barton._ | &nbsp; |
-| 6 | Elizabeth Gaskell (cont.)  {{< br >}}  {{< br >}}Dickens (cont.) | _Mary Barton._  {{< br >}}  {{< br >}}_Bleak House_ #3. (Chapters 8-10) | &nbsp; |
-| 7 | Elizabeth Gaskell (cont.) | _Mary Barton._ | &nbsp; |
-| 8 | Elizabeth Gaskell (cont.)  {{< br >}}  {{< br >}}Dickens (cont.) | _Mary Barton._  {{< br >}}  {{< br >}}_Bleak House_ #4. (Chapters 11-13) | &nbsp; |
-| 9 | John Stuart Mill | _On Liberty._ | Bentham and Mill Excerpts ([PDF]({{< baseurl >}}/resources/ben_mill_expts))  {{< br >}}  {{< br >}}Duty Quote ([PDF]({{< baseurl >}}/resources/dutyquote))  {{< br >}}  {{< br >}}Mill Subjection Quotes ([PDF]({{< baseurl >}}/resources/millsub_quot)) |
-| 10 | John Stuart Mill (cont.)  {{< br >}}  {{< br >}}Dickens (cont.) | _On Liberty._  {{< br >}}  {{< br >}}_Bleak House_ #5. (Chapters 14-16) | &nbsp; |
-| 11 | John Stuart Mill (cont.) | _On Liberty._ | &nbsp; |
-| 12 | Henry Mayhew  {{< br >}}  {{< br >}}Dickens (cont.) | _London Labour and the London Poor._ pp. 5-51, 56-60, 100-106, 113-122, 137-145, 155-156, 161-189, 209-218, 230-249, 257-291,295-305, 320-323, 344-345, 368-397, 418-443, 447-467, and 508-509. (About 250 pages total.)  {{< br >}}  {{< br >}}_Bleak House_ #6. (Chapters 17-19) | &nbsp; |
-| 13 | Henry Mayhew (cont.)  {{< br >}}  {{< br >}}Isabella Beeton | _London Labour and the London Poor._  {{< br >}}  {{< br >}}Excerpts from _The Book of Household Management._ | Beeton Readings ([PDF]({{< baseurl >}}/resources/beetonreadings)) |
-| 14 | Henry Mayhew (cont.)  {{< br >}}  {{< br >}}Isabella Beeton (cont.)  {{< br >}}  {{< br >}}Dickens (cont.) | _London Labour and the London Poor._  {{< br >}}  {{< br >}}_The Book of Household Management._  {{< br >}}  {{< br >}}_Bleak House_ #7. (Chapters 20-22) | Holmes and Dickens Quotes ([PDF]({{< baseurl >}}/resources/holm_dick_quot)) |
-| 15 | Alfred, Lord Tennyson | "Ulysses," and "Tithonus." | Tennyson Excerpts ([PDF]({{< baseurl >}}/resources/ten_excpts))  {{< br >}}  {{< br >}}Tennyson In Memoriam ([PDF]({{< baseurl >}}/resources/ten_in_mem)) |
-| 16 | Alfred, Lord Tennyson (cont.)  {{< br >}}  {{< br >}}Dickens (cont.) |  "Ulysses," "Tithonus," "The Epic," and "Morte D'Arthur."  {{< br >}}  {{< br >}}_Bleak House_ #8. (Chapters 23-25) | &nbsp; |
-| 17 | Alfred, Lord Tennyson (cont.) | _In Memoriam A. H. H._ | &nbsp; |
-| 18 | Alfred, Lord Tennyson (cont.)  {{< br >}}  {{< br >}}Dickens (cont.) | _In Memoriam A. H. H._  {{< br >}}  {{< br >}}_Bleak House_ #9. (Chapters 26-29) | Baudelaire ([PDF]({{< baseurl >}}/resources/baud_notes))  {{< br >}}  {{< br >}}Durkheim ([PDF]({{< baseurl >}}/resources/dur_expts)) |
-| 19 | Dickens (cont.) | _Bleak House_ #10. (Chapters 30-32) | &nbsp; |
-| 20 | Lewis Carroll | _Alice's Adventures in Wonderland,_ and _Through the Looking Glass._ | &nbsp; |
-| 21 | Lewis Carroll (cont.) | _Alice's Adventures in Wonderland,_ and _Through the Looking Glass._ | &nbsp; |
-| 22 | Arthur Conan Doyle | Sherlock Holmes Stories and Excerpts. | Sherlock Holmes Readings ([PDF]({{< baseurl >}}/resources/sher_holm_read)) |
-| 23 | Arthur Conan Doyle (cont.)  {{< br >}}  {{< br >}}Rudyard Kipling | Sherlock Holmes Stories and Excerpts.  {{< br >}}  {{< br >}}"The Strange Ride of Morrowbie Jukes." | &nbsp; |
-| 24 | Dickens (cont.) | _Bleak House._ | &nbsp; |
-| 25 | Dickens (cont.) | _Bleak House._ | Bleak House Reviews ([PDF]({{< baseurl >}}/resources/bleakhou_rev))  {{< br >}}  {{< br >}}National Allegory Quotes ([PDF]({{< baseurl >}}/resources/nat_alleg_quot))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+{{< thopen >}}
+ADDITIONAL MATERIALS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: The Victorian Period
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Victorian England (c.1837-1901): Key Dates ([PDF]({{< baseurl >}}/resources/victorian_england))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Dickens
+{{< tdclose >}}
+{{< tdopen >}}
+_Bleak House_ #1. (Chapters 1-4)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Thomas Carlyle  
+  
+John Ruskin
+{{< tdclose >}}
+{{< tdopen >}}
+"Signs of the Times." (See also endnotes to essay.)  
+  
+"The Nature of Gothic," "The Opening of the Crystal Palace …," and "Traffic."
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Thomas Carlyle (cont.)  
+  
+John Ruskin (cont.)  
+  
+Dickens (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+"Signs of the Times."  
+  
+"The Nature of Gothic," "The Opening of the Crystal Palace …," and "Traffic."  
+  
+_Bleak House_ #2. (Chapters 5-7)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Elizabeth Gaskell
+{{< tdclose >}}
+{{< tdopen >}}
+_Mary Barton._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Elizabeth Gaskell (cont.)  
+  
+Dickens (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+_Mary Barton._  
+  
+_Bleak House_ #3. (Chapters 8-10)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Elizabeth Gaskell (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+_Mary Barton._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Elizabeth Gaskell (cont.)  
+  
+Dickens (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+_Mary Barton._  
+  
+_Bleak House_ #4. (Chapters 11-13)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+John Stuart Mill
+{{< tdclose >}}
+{{< tdopen >}}
+_On Liberty._
+{{< tdclose >}}
+{{< tdopen >}}
+Bentham and Mill Excerpts ([PDF]({{< baseurl >}}/resources/ben_mill_expts))  
+  
+Duty Quote ([PDF]({{< baseurl >}}/resources/dutyquote))  
+  
+Mill Subjection Quotes ([PDF]({{< baseurl >}}/resources/millsub_quot))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+John Stuart Mill (cont.)  
+  
+Dickens (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+_On Liberty._  
+  
+_Bleak House_ #5. (Chapters 14-16)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+John Stuart Mill (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+_On Liberty._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Henry Mayhew  
+  
+Dickens (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+_London Labour and the London Poor._ pp. 5-51, 56-60, 100-106, 113-122, 137-145, 155-156, 161-189, 209-218, 230-249, 257-291,295-305, 320-323, 344-345, 368-397, 418-443, 447-467, and 508-509. (About 250 pages total.)  
+  
+_Bleak House_ #6. (Chapters 17-19)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Henry Mayhew (cont.)  
+  
+Isabella Beeton
+{{< tdclose >}}
+{{< tdopen >}}
+_London Labour and the London Poor._  
+  
+Excerpts from _The Book of Household Management._
+{{< tdclose >}}
+{{< tdopen >}}
+Beeton Readings ([PDF]({{< baseurl >}}/resources/beetonreadings))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Henry Mayhew (cont.)  
+  
+Isabella Beeton (cont.)  
+  
+Dickens (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+_London Labour and the London Poor._  
+  
+_The Book of Household Management._  
+  
+_Bleak House_ #7. (Chapters 20-22)
+{{< tdclose >}}
+{{< tdopen >}}
+Holmes and Dickens Quotes ([PDF]({{< baseurl >}}/resources/holm_dick_quot))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Alfred, Lord Tennyson
+{{< tdclose >}}
+{{< tdopen >}}
+"Ulysses," and "Tithonus."
+{{< tdclose >}}
+{{< tdopen >}}
+Tennyson Excerpts ([PDF]({{< baseurl >}}/resources/ten_excpts))  
+  
+Tennyson In Memoriam ([PDF]({{< baseurl >}}/resources/ten_in_mem))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Alfred, Lord Tennyson (cont.)  
+  
+Dickens (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ "Ulysses," "Tithonus," "The Epic," and "Morte D'Arthur."  
+  
+_Bleak House_ #8. (Chapters 23-25)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Alfred, Lord Tennyson (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+_In Memoriam A. H. H._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Alfred, Lord Tennyson (cont.)  
+  
+Dickens (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+_In Memoriam A. H. H._  
+  
+_Bleak House_ #9. (Chapters 26-29)
+{{< tdclose >}}
+{{< tdopen >}}
+Baudelaire ([PDF]({{< baseurl >}}/resources/baud_notes))  
+  
+Durkheim ([PDF]({{< baseurl >}}/resources/dur_expts))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Dickens (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+_Bleak House_ #10. (Chapters 30-32)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis Carroll
+{{< tdclose >}}
+{{< tdopen >}}
+_Alice's Adventures in Wonderland,_ and _Through the Looking Glass._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis Carroll (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+_Alice's Adventures in Wonderland,_ and _Through the Looking Glass._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Arthur Conan Doyle
+{{< tdclose >}}
+{{< tdopen >}}
+Sherlock Holmes Stories and Excerpts.
+{{< tdclose >}}
+{{< tdopen >}}
+Sherlock Holmes Readings ([PDF]({{< baseurl >}}/resources/sher_holm_read))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Arthur Conan Doyle (cont.)  
+  
+Rudyard Kipling
+{{< tdclose >}}
+{{< tdopen >}}
+Sherlock Holmes Stories and Excerpts.  
+  
+"The Strange Ride of Morrowbie Jukes."
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Dickens (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+_Bleak House._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Dickens (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+_Bleak House._
+{{< tdclose >}}
+{{< tdopen >}}
+Bleak House Reviews ([PDF]({{< baseurl >}}/resources/bleakhou_rev))  
+  
+National Allegory Quotes ([PDF]({{< baseurl >}}/resources/nat_alleg_quot))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
