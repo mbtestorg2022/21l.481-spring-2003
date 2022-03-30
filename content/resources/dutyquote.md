@@ -4,6 +4,7 @@ description: a few examples, to be contrasted with the behavior of Tom Jarndyce,
   Gridley, Nemo (presumably), and ? perhaps ? Jeremy Bentham and John Stuart Mill.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-481-victorian-literature-and-culture-spring-2003/38f484ac3be62028e35b2715329913d1_dutyquote.pdf
 file_type: application/pdf
+parent_uid: a79b72d0-9c80-eda2-ccd0-9944e213bd91
 resourcetype: Document
 title: dutyquote.pdf
 uid: 38f484ac-3be6-2028-e35b-2715329913d1
